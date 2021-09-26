@@ -1,0 +1,2 @@
+# spinner
+Animación de spinner
